@@ -1,1 +1,2 @@
 # phd_course
+This is my first GitHub repository for 'Advanced data science and programming for biologists' PhD course at Semmelweis University. Students are given certain tasks or projects in order to gain the skills of analyzing gene expression data. One might use different approaches of solving these homeworks (e.g. using R, python or shell script). Here you can also find my homeworks (*will upload later*): 'kszahw01.txt' - 'kszahw03.txt' were conducted via Git Bash for Win10.
