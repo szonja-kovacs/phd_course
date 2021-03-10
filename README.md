@@ -1,2 +1,1 @@
 # phd_course
-This is my first GitHub repository for the PhD course called 'Advanced data science and programming for biologists' at Semmelweis University. Students are given certain tasks or projects in order to gain skills of analyzing gene expression data. One might use different languages (e.g. R or python). Here you can also check my previous homeworks for this course (*will upload later*). All codes were written on Win10 platform using Git Bash.
